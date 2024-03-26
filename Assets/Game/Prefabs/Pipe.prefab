@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fd90975725a08d42acd48309424e5ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  logic: {fileID: 0}
+  score: {fileID: 0}
 --- !u!1 &6273429409123986416
 GameObject:
   m_ObjectHideFlags: 0
@@ -490,5 +490,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe0760d87b447364ba4a5b16e3220df3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 25
+  moveSpeed: 35
   deadZone: -45
